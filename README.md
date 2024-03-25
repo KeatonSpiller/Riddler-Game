@@ -12,3 +12,5 @@ Pytest Black Box and Glass Box Testing
     Or End If we run out of prompts
 """
 </pre>
+
+[Schematics](https://github.com/KeatonSpiller/Riddler-Game/blob/main/prog4-5Schematic.drawio.png)
