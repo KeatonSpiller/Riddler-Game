@@ -1,8 +1,8 @@
 # Riddler-Game
 <pre>
-Dynamic Binding Riddle Game, 
-with Schematics,
-Black Box, and Glass Box Testing using Pytest
+BST Dynamic Binding Riddle Game
+Pre Coding Schematics
+Pytest Black Box and Glass Box Testing
 """
     Creating a Game of Riddles within a binary Search Tree,
     Correct answer increase the score starting at 50
