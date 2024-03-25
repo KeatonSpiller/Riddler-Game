@@ -1,4 +1,7 @@
 # Riddler-Game
+# CS 302 Winter Quarter 2024
+# (BST)
+![Schematics](https://github.com/KeatonSpiller/Riddler-Game/blob/main/prog4-5Schematic.drawio.png)
 <pre>
 BST Dynamic Binding Riddle Game
 Pre Coding Schematics
@@ -13,4 +16,3 @@ Pytest Black Box and Glass Box Testing
 """
 </pre>
 
-[Schematics](https://github.com/KeatonSpiller/Riddler-Game/blob/main/prog4-5Schematic.drawio.png)
